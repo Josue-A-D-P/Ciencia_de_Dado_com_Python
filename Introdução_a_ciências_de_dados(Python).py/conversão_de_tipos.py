@@ -1,0 +1,5 @@
+print(int(1.05875640))
+print(int('10'))
+print(float('10.10'))
+print(float(100))
+print(str(10))
